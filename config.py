@@ -8,6 +8,8 @@ import os
 # import openai
 # import yaml
 
+from metagpt.const import PROJECT_ROOT
+from metagpt.logs import logger
 
 
 
