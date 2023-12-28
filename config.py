@@ -5,7 +5,7 @@ Provide configuration, singleton
 """
 import os
 
-# import openai
+import openai
 import yaml
 
 from metagpt.const import PROJECT_ROOT
