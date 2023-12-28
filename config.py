@@ -10,7 +10,8 @@ import os
 
 from metagpt.const import PROJECT_ROOT
 from metagpt.logs import logger
-
+from metagpt.tools import SearchEngineType, WebBrowserEngineType
+# from metagpt.utils.singleton import Singleton
 
 
 class NotConfiguredException(Exception):
