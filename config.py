@@ -6,7 +6,7 @@ Provide configuration, singleton
 import os
 
 # import openai
-# import yaml
+import yaml
 
 from metagpt.const import PROJECT_ROOT
 from metagpt.logs import logger
